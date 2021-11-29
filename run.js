@@ -1,2 +1,1 @@
-require('livescript');
-require('./lib/command').init().run()
+require("./lib/command").init().run();
