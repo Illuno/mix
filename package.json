@@ -18,17 +18,17 @@
     "url": "git://github.com/naturalethic/mix"
   },
   "dependencies": {
-    "bluebird": "^3.3.1",
-    "chokidar": "^3.5.2",
-    "cli-spinner": "^0.2.5",
+    "bluebird": "^3.7.2",
+    "chokidar": "^3.5.3",
+    "cli-spinner": "^0.2.10",
     "clone": "^2.1.2",
     "co": "^4.6.0",
     "daemonize2": "^0.4.2",
     "deep-extend": "^0.6.0",
-    "glob": "^7.2.0",
+    "glob": "^10.3.10",
     "node-uuid": "^1.4.7",
     "object-path": "^0.11.8",
     "prelude-ls": "^1.2.1",
-    "yargs": "^17.3.1"
+    "yargs": "^17.7.2"
   }
 }
